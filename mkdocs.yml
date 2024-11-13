@@ -14,3 +14,4 @@ extra_css:
 nav:
   - Installation: index.md
   - Getting Started: getting-started.md
+  - Settings: settings.md
